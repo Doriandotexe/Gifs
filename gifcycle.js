@@ -1,10 +1,10 @@
 // Array of GIF URLs
 const gifs = [
-    'gifs/1.gif',
-	'gifs/2.gif',
-    'gifs/3.gif',
-    'gifs/4.gif',
-    'gifs/5.gif',
+    'https://raw.githubusercontent.com/Doriandotexe/Gifs/main/1.gif',
+    'https://raw.githubusercontent.com/Doriandotexe/Gifs/main/2.gif',
+    'https://raw.githubusercontent.com/Doriandotexe/Gifs/main/3.gif',
+    'https://raw.githubusercontent.com/Doriandotexe/Gifs/main/4.gif',
+    'https://raw.githubusercontent.com/Doriandotexe/Gifs/main/5.gif',
 
 ];
 
